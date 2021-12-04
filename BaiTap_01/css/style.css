@@ -4,6 +4,16 @@
 }
 
 /* CSS for main */
+main{
+    position: relative;
+    margin-top: 100px;
+}
+
 .my_intro{
     text-align: justify;
+}
+
+/* CSS for Footer */
+.hr_footer{
+    margin-top: 50px;
 }
